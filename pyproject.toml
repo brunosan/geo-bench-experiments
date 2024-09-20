@@ -22,7 +22,7 @@ authors = [
 ]
 
 dependencies = [
-  "segmentation-models-pytorch @ git+https://github.com/qubvel/segmentation_models.pytorch.git@master",
+  "segmentation-models-pytorch @ git+https://github.com/qubvel/segmentation_models.pytorch.git@main",
   "pandas>=1.5.3,<2.0",
   "scipy>=1.11.2,<2.0",
   "geo-benchmark>=0.0.3,<1.0",
